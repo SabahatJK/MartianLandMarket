@@ -8,4 +8,4 @@ Martian Land Foundation wants to build a system that will crowdfund the developm
 
 ### Demo App
 
-Click [here](frontend/index.html) to launch the MartianMarket application.
+Click [Martian Market App](https://sabahatjk.github.io/MartianLandMarket/) to launch the MartianMarket application.
